@@ -1,0 +1,30 @@
+.contact-wrapper {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(247, 240, 240)
+}
+
+.contact-wrapper > .contact-header {
+    padding: 0px 20px;
+    background-color: #cea135;
+    color: #11122b;
+    text-align: center;
+    margin: 0px 500px;
+}
+
+.contact-wrapper > .contact-body {
+    padding: 0px 10px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+.skewed-header {
+    background-color: rgb(247, 240, 240)
+}
+
+.spacer30 {
+    background-color: rgb(247, 240, 240)
+}
